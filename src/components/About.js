@@ -32,8 +32,8 @@ export const About = () => {
             quisquam harum nam cumque temporibus explicabo dolorum sapiente odio
             unde dolor?
           </p>
-          {/* <a href="#" className="btn">read more</a> */}
-          <button type='button' onClick={btnFunc} className='btn'>read more</button>
+          <a href="#" className="btn">read more</a>
+          {/* <button type='button' onClick={btnFunc} className='btn'>read more</button> */}
         </article>
       </div>
     </section>
